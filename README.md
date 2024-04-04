@@ -85,17 +85,6 @@ blissfulwithyoumom@gmail.com
 
 ## Github Stats ⚡
 
-<p align=center>
-  <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=blissfulwithyou&theme=react&border=61dafb&hide_border=true" alt="" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=blissfulwithyou&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-</p>
-
-<!---
-blissfulwithyou/blissfulwithyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
