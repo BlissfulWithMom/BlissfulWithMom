@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Call+me+Douglas;Or+Full+Stack;Or+Crazy+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Call+me+Bliss;Or+Full+Stack;Or+Crazy+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/techcaptain83/techcaptain83/blob/main/Logo.gif" />
@@ -8,7 +8,7 @@
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=blissfulwithyou&label=Profile%20views&color=0e75b6&style=flat" alt="blissfulwithyou" />
-      <img alt="GitHub Douglas's stars" src="https://img.shields.io/github/stars/blissfulwithyou?style=social"> 
+      <img alt="GitHub Bliss's stars" src="https://img.shields.io/github/stars/blissfulwithyou?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/blissfulwithyou?style=social">
 </div>
 
